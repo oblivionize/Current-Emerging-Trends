@@ -12,5 +12,5 @@ I first like to identify the problem before working on it. Without a good grasp 
 
 • What are my ethical responsibilities to the end user and the organization?
 
-I think the most important ethical responsibility is the user's informational privacy. To add to this, I need to make sure that software I design protects users from malicious activites from the internet. Furthermore, it is important to be honest with your users and tell them how you use their data for that particular software. That way people know exactly what information is being used.  
+I think the most important ethical responsibility is the user's informational privacy. To add to this, I need to make sure that software I design protects users from malicious activites from the internet. Furthermore, it is important to be honest with your users and tell them how you use their data for that particular software. That way people know exactly what information is being used. I also have an obligation to the user to make sure that the software they are using is in good quality and meets their needs adequately.
 
